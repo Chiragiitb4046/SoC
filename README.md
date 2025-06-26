@@ -33,3 +33,24 @@ Welcome to my learning repository! This repo contains the code, notes, and exerc
   - Evaluating models (accuracy, MAE, confusion matrix)
 
 ---
+## ✅ My Progress
+
+| Topic         | Status     | Notes                        |
+|---------------|------------|------------------------------|
+| Python        | ✅ Complete | Covered all basic concepts   |
+| Pandas        | ✅ Complete | Comfortable with dataframes  |
+| ML Basics     | 🟡 Ongoing  | Learning models & evaluation |
+
+---
+
+## 🔗 Resources Used
+
+- [Codebasics YouTube Channel](https://www.youtube.com/c/codebasics)
+- http://14.139.161.31/OddSem-0822-1122/Hands-On_Machine_Learning_with_Scikit-Learn-Keras-and-TensorFlow-2nd-Edition-Aurelien-Geron.pdf
+---
+
+## 📌 Next Steps
+
+- Deepen ML knowledge: decision trees, SVM, and model tuning
+- Learn deep learning (TensorFlow/Keras)
+- Build SmartBook: Personalized Book Predictor & Recommender System 
